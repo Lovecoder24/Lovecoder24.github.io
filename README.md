@@ -1,7 +1,7 @@
 # Data Analysts
 
 
-###Education
+### Education
 computer science ,B.tech
 
 ### Work Experience
