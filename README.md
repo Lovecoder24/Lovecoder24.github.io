@@ -1,19 +1,26 @@
 
 # Data Analysts
 
-#### Technical Skills:  Python (Pandas, NumPy, Scikit-learn), SQL ( MySQL), Power BI, Matplotlib, Seaborn,Statistical Analysis, ETL Processes
 
+## Professional Summary
+ Recent Statistics and Computer Science graduate with a strong foundation in data
+ analysis, statistical modeling, and machine learning. Eager to apply academic knowledge
+ and hands-on project experience in SQL, Python, and Tableau to an entry-level data
+ analyst role. A fast learner passionate about uncovering insights from data to support
+ strategic decisions.
+ 
+## Technical Skills  
+Python (Pandas, NumPy, Scikit-learn), SQL ( MySQL), Power BI, Matplotlib, Seaborn,Statistical Analysis, ETL Processes
+-Languages: SQL ( MySQL), Python (Pandas, NumPy, Scikit-learn)
+- Databases: PostgreSQL, MySQL
+- BI & Viz Power BI, Matplotlib, Seaborn
+- Tools: Excel (Advanced, incl. Pivot Tables), Git, Jupyter Notebooks
+- Concepts: Statistical Analysis, ETL Processes
 ## Education		        		
 - B.Tech., Computer Science | Modibbo Adama University,yola,Adamawa State (_August 2025_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- WAEC, Government Science,Secondary, Jalingo, Taraba State (_2018)
+- Primary School Leaving Certificate, Excellent Tutorial Primary,School, Jalingo,
+ Taraba State (2012)
 
 ## Projects
 ### AI-Powered Lecture Hall Information Retrieval System, Python, TensorFlow,
@@ -43,6 +50,7 @@
  to understand user behavior and movie characteristics.
 - Performed exploratory data analysis (EDA) to reveal key patterns, including rating prevalence
  and genre dominance, to support a recommendation system.
+
  ### 2025 HNG Ride Business Analysis, SQL
  - Analyzed HNG Ride operations from June 2021 to December 2024 to identify key performance
  trends and areas for improvement.
@@ -52,13 +60,16 @@
  education, and test preparation.
  - Found that female students had a higher pass percentage and that performance was correlated
  with lunch type and parental education.
+
  ### 2024 Analysis of Walmart’s Weekly Sales (2010-2012), Python
  - Analyzed historical sales data for 45 Walmart stores, including economic indicators, to identify
  trends and store performance.
+
  ### 2024 COVID-19 Data Analysis, SQL, Python
  - Cleaned and analyzed a large-scale COVID-19 dataset using SQL and Python (Pandas) to
  explore infection rates, and vaccination trends.
  - Visualized the impact of public health measures on case numbers over time.
+
  ### 2024 Personal GitHub Project: Front-end Portfolio, HTML, CSS, JavaScript
  - Developed a fully responsive personal portfolio website to showcase data analysis projects.
  - Implemented interactive elements using JavaScript and modern styling with CSS.
