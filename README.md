@@ -29,39 +29,39 @@
  Power BI(2025)
  -  Investigated the search engine visibility of leading Nigerian consumer banks by analyzing
  keyword rankings.
- ○ Analyzed the correlation between a bank’s SEO visibility and its reported 2024 revenue,
+- Analyzed the correlation between a bank’s SEO visibility and its reported 2024 revenue,
  presenting findings in a Power BI dashboard.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 ###  Analysis of International FIFA Football History (1872–2025), SQL, Power BI
- ○ Transformed over 150 years of raw historical football data into a dynamic, interactive Power
+ - Transformed over 150 years of raw historical football data into a dynamic, interactive Power
  BI dashboard.
- ○ Enabled analysis of team performances, match outcomes, and historical patterns.
+- Enabled analysis of team performances, match outcomes, and historical patterns.
  2025 Feature Engineering & EDA on the MovieLens Dataset, Python, Google Colab
  Notebook
- ○ Transformed the raw MovieLens dataset into an enriched resource by creating new features
+- Transformed the raw MovieLens dataset into an enriched resource by creating new features
  to understand user behavior and movie characteristics.
- ○ Performed exploratory data analysis (EDA) to reveal key patterns, including rating prevalence
+- Performed exploratory data analysis (EDA) to reveal key patterns, including rating prevalence
  and genre dominance, to support a recommendation system.
  ### 2025 HNG Ride Business Analysis, SQL
- ○ Analyzed HNG Ride operations from June 2021 to December 2024 to identify key performance
+ - Analyzed HNG Ride operations from June 2021 to December 2024 to identify key performance
  trends and areas for improvement.
 
  ### 2024 EDA: Student Performance, Python (Scikit-learn, Pandas)
- ○ Analyzed how student test scores are affected by variables such as gender, ethnicity, parental
+ - Analyzed how student test scores are affected by variables such as gender, ethnicity, parental
  education, and test preparation.
- ○ Found that female students had a higher pass percentage and that performance was correlated
+ - Found that female students had a higher pass percentage and that performance was correlated
  with lunch type and parental education.
  ### 2024 Analysis of Walmart’s Weekly Sales (2010-2012), Python
- ○ Analyzed historical sales data for 45 Walmart stores, including economic indicators, to identify
+ - Analyzed historical sales data for 45 Walmart stores, including economic indicators, to identify
  trends and store performance.
  ### 2024 COVID-19 Data Analysis, SQL, Python
- ○ Cleaned and analyzed a large-scale COVID-19 dataset using SQL and Python (Pandas) to
+ - Cleaned and analyzed a large-scale COVID-19 dataset using SQL and Python (Pandas) to
  explore infection rates, and vaccination trends.
- ○ Visualized the impact of public health measures on case numbers over time.
+ - Visualized the impact of public health measures on case numbers over time.
  ### 2024 Personal GitHub Project: Front-end Portfolio, HTML, CSS, JavaScript
- ○ Developed a fully responsive personal portfolio website to showcase data analysis projects.
- ○ Implemented interactive elements using JavaScript and modern styling with CSS.
+ - Developed a fully responsive personal portfolio website to showcase data analysis projects.
+ - Implemented interactive elements using JavaScript and modern styling with CSS.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
